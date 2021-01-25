@@ -9,13 +9,16 @@ I'm a __frontend developer__ based in __France__ . I love teaching web developme
 
 * 💼 Currently working at [Atecna](https://www.atecna.fr) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://aurelien-hennuyer.netlify.app/static/media/CV.2a436f4d.pdf)<br/>
-* 📫 Contact me [@Hennuyer Aurélien](mailto:hennaurelienpro@gmail.com)
+* 📫 Contact me by [mail](mailto:hennaurelienpro@gmail.com)
 
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="" />
+  <img align="center" alt="Skills" src="https://github.com/Illuminaxx/Illuminaxx/blob/main/img/packages.png" />
 </p>
+
+##  Learn In Progress
+🌱 I’m currently learning [NestJS](https://docs.nestjs.com/)
 
 ## Work In Progress..
 
