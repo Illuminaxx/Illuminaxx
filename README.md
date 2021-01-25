@@ -32,6 +32,8 @@ I'm a __frontend developer__ based in __France__ . I love teaching web developme
 # My song of the moment
 [![Spotify](https://github.com/Illuminaxx/Illuminaxx/blob/main/img/spotify.PNG)](https://open.spotify.com/embed/track/2NtAUKRAuIKU2toS6x2sxY)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Illuminaxx.Illuminaxx)
+
 
 <!--
 **Illuminaxx/Illuminaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
