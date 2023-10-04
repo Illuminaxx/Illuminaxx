@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aurelien-hennuyer.netlify.app/](https://aurelien-hennuyer.netlify.app/)
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **hennaurelienpro@gmail.com**
 
