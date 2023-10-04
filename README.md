@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illuminaxx&label=Profile%20views&color=0e75b6&style=flat" alt="illuminaxx" /> </p>
 
-- 🌱 I’m currently learning **FlutterFlow, React Native**
+- 🌱 I’m currently learning **TypeScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://aurelien-hennuyer.netlify.app/](https://aurelien-hennuyer.netlify.app/)
 
