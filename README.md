@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illuminaxx&show_icons=true&locale=en" alt="illuminaxx" /></p>-->
 
 # 💫 About Me:
-🔭 I’m currently working on React, Next.js, React Native<br>👯 I’m looking to collaborate on  front-end projects with React JS and TypeScript (not required)<br>🤝 I’m looking for help with ReactJS and frontend development in general<br>🌱 I’m currently learning  Typescript and React Native<br>💬 Ask me about a position or job offer<br>⚡ Fun fact I'm afraid of wild birds
+🔭 I’m currently working on React, Next.js, React Native<br>👯 I’m looking to collaborate on front-end projects with React JS and TypeScript (not required)<br>🤝 I’m looking for help with Elixir <br>🌱 I’m currently learning  Typescript and React Native<br>💬 Ask me about a position or job offer<br>⚡ Fun fact I'm afraid of wild birds
 
 
 ## 🌐 Socials:
