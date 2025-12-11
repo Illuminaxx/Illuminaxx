@@ -10,7 +10,7 @@
 
 ---
 ## 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/ahennuyer) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7FLP1V)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
